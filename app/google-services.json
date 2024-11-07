@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "70113457998",
+    "project_id": "groupeventcheakinapp-3a",
+    "storage_bucket": "groupeventcheakinapp-3a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70113457998:android:0972694b5df31406ddd01f",
+        "android_client_info": {
+          "package_name": "com.example.groupeventcheakinapp_3a"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0mS5_rBFHEWIe0S0ZgP6NQ2piyHc_mns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
